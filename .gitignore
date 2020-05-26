@@ -1,1 +1,5 @@
 node_modules
+src/test
+.vscode
+.vscode-test
+out
